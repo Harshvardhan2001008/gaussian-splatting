@@ -88,11 +88,6 @@ To evaluate quality, we used **PSNR** and **SSIM** scores via `scikit-image`.
 ```bash
 python Assignment4_partA.py
 ```
-
-The script computes image similarity between reconstructed and GT views.
-
-<img width="1552" alt="metrics" src="https://github.com/user-attachments/assets/ad263588-dceb-4f55-850e-90993012f359" />
-
 ---
 
 ## ✨ Generating Novel Views (Interpolation)
