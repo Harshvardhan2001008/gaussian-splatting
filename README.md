@@ -86,7 +86,7 @@ python render.py -m output/000fab2b-8 -s data/apollo17 --skip_train --iteration 
 To evaluate quality, we used **PSNR** and **SSIM** scores via `scikit-image`.
 
 ```bash
-python Assignment4_partA.py
+python Assignment4.py
 ```
 ---
 
