@@ -74,10 +74,10 @@ python render.py -m output/000fab2b-8 -s data/apollo17 --skip_train --iteration 
 - Observations: Rendered and GT images were visually very similar—minor variations are perceptible upon rapid switching.
 
 #### Ground Truth Example  
-![GT](https://github.com/user-attachments/assets/3cafce5b-d5b4-48fa-a3e6-0cedf72f0672)
+![AS17-137-20905HR](https://github.com/user-attachments/assets/44191935-58e4-48b7-a455-411be76c19e0)
 
 #### Reconstructed View  
-![Rendered](https://github.com/user-attachments/assets/d3379bdc-178f-4944-8c17-f24e0fa0ffd3)
+![00002](https://github.com/user-attachments/assets/15b6c500-fd4e-462e-94a0-3fb413ad5574)
 
 ---
 
